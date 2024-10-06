@@ -5,7 +5,7 @@ mainブランチとfeatureブランチに対して、テキストとバイナリ
 
 # 修正場所
 
-（ここを修正してください）
+「feature/another_update」ブランチで修正しました
 
 ![画像](image.png)
 
